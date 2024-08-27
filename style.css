@@ -1,3 +1,12 @@
+:root{
+/* -colors-- */
+
+/* -typography--- */
+--ff-saira-stencil-one: "Saira Stencil One", sans-serif; 
+--ff-poppins: 'Poppins', sans-serif;
+--ff-roboto: 'Roboto', sans-serif;
+
+}
 .tbl{
     border: 100px;
     border-radius: 100px;
